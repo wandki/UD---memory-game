@@ -7,7 +7,7 @@
 
 ## Description
 
-This is the memory game project- ** social media version **  by Waad. The game provides:
+This is the memory game project  -social media version   by Waad. The game provides:
 1.Random cards
 2.star rating
 3.timer
