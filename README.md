@@ -8,9 +8,9 @@
 ## Description
 
 This is the memory game project  -social media version   by Waad. The game provides:
-1.Random cards
-2.star rating
-3.timer
+1. Random cards
+2. Star rating
+3. Timer
 
 Play as much as you can..
 and may the odds be ever in your favor!
